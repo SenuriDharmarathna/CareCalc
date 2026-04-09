@@ -26,9 +26,9 @@ Copy the `CareCalc` folder into:
 
 1. Start WAMP — wait for tray icon to turn **green**
 2. Open your browser and go to: `http://localhost/phpmyadmin`
-3. Click **New** on the left → create a database named `carecalc\_db`
-4. Click on `carecalc\_db` → click **Import** tab
-5. Click **Choose File** → select `carecalc\_db.sql` from the project folder
+3. Click **New** on the left → create a database named `carecalc_db`
+4. Click on `carecalc_db` → click **Import** tab
+5. Click **Choose File** → select `carecalc_db.sql` from the project folder
 6. Click **Go**
 
 ### Step 3 — Check Database Connection
